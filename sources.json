@@ -1,0 +1,79 @@
+{
+  "checked": "2026-10-21",
+  "biography": "Education, advisor, interests, email, and participation in RoboMaster confirmed by Yingjie Xu in this chat.",
+  "design": "https://ltt-o.github.io/",
+  "publications": [
+    {
+      "title": "Seg3DParts: Segmentation-Grounded Controllable Part-Level 3D Generation",
+      "paper": "https://arxiv.org/abs/2609.36918"
+    },
+    {
+      "title": "DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding",
+      "paper": "https://arxiv.org/abs/2609.34651"
+    },
+    {
+      "title": "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation",
+      "paper": "https://arxiv.org/abs/2503.01370"
+    },
+    {
+      "title": "Advancing high-fidelity 3D and Texture Generation with 2.5D latents",
+      "paper": "https://arxiv.org/abs/2505.21050"
+    },
+    {
+      "title": "Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency",
+      "paper": "https://arxiv.org/abs/2403.17638"
+    },
+    {
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "paper": "https://arxiv.org/abs/2609.36012"
+    },
+    {
+      "title": "GenRouter: Unified Workflow Routing for Agentic Image Generation",
+      "paper": "https://arxiv.org/abs/2608.16721"
+    },
+    {
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "paper": "https://arxiv.org/abs/2606.18847",
+      "venue": "EMNLP 2026 (arXiv comments)"
+    }
+  ],
+  "images": {
+    "assets/seg3dparts.jpg": "https://ltt-o.github.io/images/Seg3DPart_teaser.jpg",
+    "assets/directuv.png": "https://ltt-o.github.io/images/DirectUV_teaser.png",
+    "assets/kiss3dgen.png": "https://ltt-o.github.io/images/kiss_teaser.png",
+    "assets/kiss-plus.png": "https://ltt-o.github.io/images/kiss_plus_teaser.png",
+    "assets/revorf.png": "https://arxiv.org/html/2403.17638v1/pipeline.png",
+    "assets/genrouter.png": "https://raw.githubusercontent.com/EnVision-Research/GenRouter/main/assets/teaser_00.png",
+    "assets/robot-icl.png": "https://jethrojames.github.io/awesome-robots-icl/assets/robot-icl-taxonomy.png"
+  },
+  "awards": [
+    {
+      "award": "National First Prize",
+      "source": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1477",
+      "evidence": "Official 2022 RMUC national award image lists 华南理工大学 / 松灵华南虎 / 一等奖.",
+      "image": "https://rm-static.djicdn.com/articles/71710/366a58843f15e16608841562145656.jpg"
+    },
+    {
+      "award": "Central Regional runner-up",
+      "source": "https://auto.upc.edu.cn/2022/0621/c17295a378273/pagem.htm",
+      "evidence": "Official UPC report states RPS defeated SCUT 3–2 in the championship match. Runner-up follows from the reported final result.",
+      "corroboration": "https://www.sohu.com/a/559175095_114977"
+    }
+  ],
+  "template": {
+    "repository": "https://github.com/RayeRen/acad-homepage.github.io",
+    "commit": "2cc1577eeaf2f74dede6d016a70722dbd409ea2f",
+    "license": "MIT"
+  },
+  "scholar": {
+    "url": "https://scholar.google.com/citations?user=TyoprpUAAAAJ&hl=en",
+    "checked": "2026-10-21",
+    "listed_papers": 7,
+    "added": [
+      "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents"
+    ],
+    "retained_user_requested": [
+      "In-Context Learning for Robots: Methods and Applications"
+    ]
+  }
+}
