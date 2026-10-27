@@ -38,12 +38,20 @@ Email: [scutxyj64@gmail.com](mailto:scutxyj64@gmail.com) · [Google Scholar](htt
 <p>Haojian Huang, Zexi Li, Junhao Guo, Yehang Zhang, Wenxuan Peng, Bohan Zhou, Weilin Ruan, Leyi Wu, Chenxu Wang, Jianchong Su, Binghui Xie, Wosong Chen, Yingjie Xu, Tianhao Zhou, Suzeyu Chen, Pukun Zhao, Jiaqi He, Xinyi Li, Runze Li, Peiran Dong, Shaoxiang Dang, Jing Huang, Yingbing Chen, Yifan Chang, Tianyi Zhang, Shiyuan Deng, Haozhi Wang, Yangkai Wei, Wenqian Li, Han Yang, Kaiwen Zhou, Huaping Liu, James Cheng, Rui Shao, Donglin Wang, Yaochu Jin, Jianye Hao, Ying-Cong Chen, Yinchuan Li</p>
 </details>
 
+- **[World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964)**<br>
+  Yehang Zhang\*, Haojian Huang\*, Yifan Chang, …, **Yingjie Xu**, …, Ying-Cong Chen, Zexi Li.<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2609.29964)
+
+<details><summary>All authors</summary>
+<p>Yehang Zhang*, Haojian Huang*, Yifan Chang, Jianchong Su, Bohan Zhou, <strong>Yingjie Xu</strong>, Wosong Chen, Tianhao Zhou, Chenxu Wang, Tianyi Zhang, Yangkai Wei, Wenqian Li, Shiyuan Deng, Yinchuan Li, Ying-Cong Chen, Zexi Li</p>
+</details>
+
 - **[GenRouter: Unified Workflow Routing for Agentic Image Generation](https://arxiv.org/abs/2608.16721)**  
   Harold Haodong Chen\*, Zhiyu Hou\*, Wen-Jie Shu, Weilin Ruan, **Yingjie Xu**, Litao Guo, Ying-Cong Chen.  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.16721) · [Code](https://github.com/EnVision-Research/GenRouter)
 
 - **[WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](https://arxiv.org/abs/2606.18847)**  
-  Yehang Zhang, Jianchong Su, Haojian Huang, Yifan Chang, Tianhao Zhou, Xinli Xu, **Yingjie Xu**, Yinchuan Li, Zexi Li, Ying-Cong Chen.  
+  Yehang Zhang\*, Jianchong Su\*, Haojian Huang\*, Yifan Chang, Tianhao Zhou, Xinli Xu, **Yingjie Xu**, Yinchuan Li, Zexi Li, Ying-Cong Chen.<br>
   *EMNLP 2026* · [Paper](https://arxiv.org/abs/2606.18847)
 
 - **[Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://arxiv.org/abs/2503.01370)**  

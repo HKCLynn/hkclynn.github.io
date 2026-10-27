@@ -124,6 +124,29 @@
       "code": "https://github.com/JethroJames/awesome-robots-icl"
     },
     {
+      "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+      "authors": [
+        "Yehang Zhang*",
+        "Haojian Huang*",
+        "Yifan Chang",
+        "Jianchong Su",
+        "Bohan Zhou",
+        "Yingjie Xu",
+        "Wosong Chen",
+        "Tianhao Zhou",
+        "Chenxu Wang",
+        "Tianyi Zhang",
+        "Yangkai Wei",
+        "Wenqian Li",
+        "Shiyuan Deng",
+        "Yinchuan Li",
+        "Ying-Cong Chen",
+        "Zexi Li"
+      ],
+      "venue": "arXiv 2026",
+      "paper": "https://arxiv.org/abs/2609.29964"
+    },
+    {
       "title": "GenRouter: Unified Workflow Routing for Agentic Image Generation",
       "authors": [
         "Harold Haodong Chen*",
@@ -141,9 +164,9 @@
     {
       "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
       "authors": [
-        "Yehang Zhang",
-        "Jianchong Su",
-        "Haojian Huang",
+        "Yehang Zhang*",
+        "Jianchong Su*",
+        "Haojian Huang*",
         "Yifan Chang",
         "Tianhao Zhou",
         "Xinli Xu",

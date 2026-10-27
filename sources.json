@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-21",
+  "checked": "2026-10-27",
   "biography": "Education, advisor, interests, email, and participation in RoboMaster confirmed by Yingjie Xu in this chat.",
   "design": "https://ltt-o.github.io/",
   "publications": [
@@ -35,6 +35,13 @@
       "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
       "paper": "https://arxiv.org/abs/2606.18847",
       "venue": "EMNLP 2026 (arXiv comments)"
+    },
+    {
+      "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+      "paper": "https://arxiv.org/abs/2609.29964",
+      "venue": "arXiv 2026",
+      "authors_source": "https://arxiv.org/abs/2609.29964",
+      "equal_contribution_source": "https://zyh-lightyear.github.io/"
     }
   ],
   "images": {
@@ -74,6 +81,21 @@
     ],
     "retained_user_requested": [
       "In-Context Learning for Robots: Methods and Applications"
+    ]
+  },
+  "coauthor_homepage_review": {
+    "url": "https://zyh-lightyear.github.io/",
+    "checked": "2026-10-27",
+    "matched_papers": [
+      "In-Context Learning for Robots: Methods and Applications",
+      "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+      "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents"
+    ],
+    "added": [
+      "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal"
+    ],
+    "updated": [
+      "WorldLines: mark Yehang Zhang, Jianchong Su, and Haojian Huang as equal contributors"
     ]
   }
 }
