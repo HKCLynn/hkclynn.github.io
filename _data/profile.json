@@ -239,6 +239,10 @@
   ],
   "honors": [
     {
+      "date": "2023",
+      "text": "International Second Prize, TE AI Cup."
+    },
+    {
       "date": "2022",
       "text": "National First Prize, RoboMaster University Championship.",
       "source": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1477"
@@ -247,6 +251,19 @@
       "date": "2022",
       "text": "Runner-up, RoboMaster University Championship, Central Regional.",
       "source": "https://auto.upc.edu.cn/2022/0621/c17295a378273/pagem.htm"
+    }
+  ],
+  "internships": [
+    {
+      "date": "2026.08 – Present",
+      "organization": "Knowin AI"
+    },
+    {
+      "date": "2023.07 – 2024.03",
+      "organization": "Singapore Management University",
+      "role": "Visiting Research Student",
+      "location": "Singapore",
+      "advisor": "Shengfeng He"
     }
   ]
 }

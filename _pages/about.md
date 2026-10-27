@@ -72,6 +72,7 @@ Email: [scutxyj64@gmail.com](mailto:scutxyj64@gmail.com) · [Google Scholar](htt
 
 # 🎖 Honors and Awards
 
+- **2023** · International Second Prize, TE AI Cup.
 - **2022** · National First Prize, RoboMaster University Championship. [Source](https://www.robomaster.com/zh-CN/resource/pages/announcement/1477)
 - **2022** · Runner-up, RoboMaster University Championship, Central Regional. [Source](https://auto.upc.edu.cn/2022/0621/c17295a378273/pagem.htm)
 
@@ -82,3 +83,9 @@ Email: [scutxyj64@gmail.com](mailto:scutxyj64@gmail.com) · [Google Scholar](htt
 - **2026 – Present** · Ph.D., The Hong Kong University of Science and Technology (Guangzhou).
 - **2024 – 2026** · M.Phil., The Hong Kong University of Science and Technology (Guangzhou).
 - **2020 – 2024** · Undergraduate studies, South China University of Technology.
+
+# Internships
+
+- **2026.08 – Present** · **Knowin AI**.
+- **2023.07 – 2024.03** · **Visiting Research Student, Singapore Management University**, Singapore.<br>
+  Supervised by Prof. Shengfeng He.

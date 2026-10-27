@@ -55,6 +55,11 @@
   },
   "awards": [
     {
+      "award": "International Second Prize, TE AI Cup",
+      "year": 2023,
+      "source": "User-provided screenshot on 2026-10-27: TE AI Cup, Nov 2022–May 2023, International Second Prize Winner."
+    },
+    {
       "award": "National First Prize",
       "source": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1477",
       "evidence": "Official 2022 RMUC national award image lists 华南理工大学 / 松灵华南虎 / 一等奖.",
@@ -97,5 +102,8 @@
     "updated": [
       "WorldLines: mark Yehang Zhang, Jianchong Su, and Haojian Huang as equal contributors"
     ]
+  },
+  "internships": {
+    "source": "User-provided dates, institutions, role, location, and advisor in this chat on 2026-10-27."
   }
 }
