@@ -54,6 +54,10 @@ Email: [scutxyj64@gmail.com](mailto:scutxyj64@gmail.com) · [Google Scholar](htt
   Yehang Zhang\*, Jianchong Su\*, Haojian Huang\*, Yifan Chang, Tianhao Zhou, Xinli Xu, **Yingjie Xu**, Yinchuan Li, Zexi Li, Ying-Cong Chen.<br>
   *EMNLP 2026* · [Paper](https://arxiv.org/abs/2606.18847)
 
+- **[RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775)**<br>
+  Harold Haodong Chen, Sirui Chen, **Yingjie Xu**, Wenhang Ge, Ying-Cong Chen.<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.13775)
+
 - **[Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation](https://arxiv.org/abs/2503.01370)**  
   Jiantao Lin\*, Xin Yang\*, Meixi Chen\*, **Yingjie Xu**, Dongyu Yan, Leyi Wu, Xinli Xu, Lie Xu, Shunsi Zhang, Ying-Cong Chen.  
   *CVPR 2025* · [Paper](https://arxiv.org/abs/2503.01370) · [Project](https://ltt-o.github.io/Kiss3dgen.github.io/) · [Code](https://github.com/EnVision-Research/Kiss3DGen)

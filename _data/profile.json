@@ -179,6 +179,18 @@
       "paper": "https://arxiv.org/abs/2606.18847"
     },
     {
+      "title": "RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data",
+      "authors": [
+        "Harold Haodong Chen",
+        "Sirui Chen",
+        "Yingjie Xu",
+        "Wenhang Ge",
+        "Ying-Cong Chen"
+      ],
+      "venue": "arXiv 2026",
+      "paper": "https://arxiv.org/abs/2605.13775"
+    },
+    {
       "title": "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation",
       "authors": [
         "Jiantao Lin*",
